@@ -3001,6 +3001,11 @@ url-set-query@^1.0.0:
   resolved "https://registry.yarnpkg.com/url-set-query/-/url-set-query-1.0.0.tgz#016e8cfd7c20ee05cafe7795e892bd0702faa339"
   integrity sha512-3AChu4NiXquPfeckE5R5cGdiHCMWJx1dwCWOmWIL4KHAziJNOFIYJlpGFeKDvwLPHovZRCxK3cYlwzqI9Vp+Gg==
 
+ussd-router@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/ussd-router/-/ussd-router-0.1.6.tgz#916ed5748ee9b6d09ae3fdb52d13bf0e9bd41022"
+  integrity sha512-5TukXUxWBlPVjOIre8hCuM2FjPkUL64/C620G8GADvNPMMlDQvf9RuS0QXlDXSYIWg/DWHgTw3pywzqzKkkFVA==
+
 utf-8-validate@^5.0.2:
   version "5.0.10"
   resolved "https://registry.yarnpkg.com/utf-8-validate/-/utf-8-validate-5.0.10.tgz#d7d10ea39318171ca982718b6b96a8d2442571a2"
